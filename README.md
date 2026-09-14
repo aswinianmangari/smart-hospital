@@ -28,4 +28,5 @@ A web-based application to manage hospital appointments, patient health records,
    http://localhost:3000
 
 ## 👩‍💻 Author
-Monisha Nakka
+Aswini Anmangari
+
